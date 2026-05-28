@@ -25,7 +25,7 @@ Análise de faturamento, quantidade vendida, produtos e distribuição geográfi
 - Faturamento por Continente
 - Evolução Temporal das Vendas
 
-![Dashboard de Vendas](dashboards/vendas/preview.png)
+![Dashboard de Vendas](vendas/vendas.PNG)
 
 ---
 
