@@ -104,5 +104,5 @@ Demonstrar habilidades em:
 
 Robert Melo
 
-🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/ 
+🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/   
 🐍 Python | IA | Machine Learning | LangChain | Data Science
