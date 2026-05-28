@@ -100,6 +100,9 @@ Demonstrar habilidades em:
 
 ---
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
-Robert Fernandes de Melo
+Robert Melo
+
+🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/ 
+🐍 Python | IA | Machine Learning | LangChain | Data Science
