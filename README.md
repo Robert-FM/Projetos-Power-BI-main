@@ -25,7 +25,7 @@ Análise de faturamento, quantidade vendida, produtos e distribuição geográfi
 - Faturamento por Continente
 - Evolução Temporal das Vendas
 
-![Dashboard de Vendas](vendas/vendas.PNG)
+![Dashboard de Vendas](img/vendas.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ Dashboard financeiro voltado para análise de receitas, despesas e margem de luc
 - Lucro por Mês
 - Análise por Município
 
-![Dashboard Financeiro](dashboards/financeiro/preview.png)
+![Dashboard Financeiro](img/Financeiro.PNG)
 
 ---
 
@@ -55,7 +55,7 @@ Dashboard para controle e monitoramento de estoque e movimentações de produtos
 - Análise por Loja
 - Filtros Temporais
 
-![Dashboard de Estoque](dashboards/estoque/preview.png)
+![Dashboard Estoque](img/estoque.PNG)
 
 ---
 
@@ -71,7 +71,7 @@ Dashboard voltado para análise de indicadores de Recursos Humanos.
 - Funcionários por Cidade
 - Distribuição por Gênero
 
-![Dashboard RH](dashboards/rh/preview.png)
+![Dashboard RH](img/RH.PNG)
 
 ---
 
